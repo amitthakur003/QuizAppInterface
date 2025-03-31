@@ -23,10 +23,15 @@ Version Control: Git & GitHub
 🔧 Installation & Setup:
 Clone the repository and install dependencies:
 
-sh
+in sh: 
+
 Copy
+
 Edit
+
 git clone https://github.com/your-username/quiz-ui.git
+
 cd quiz-ui
+
 npm install
 npm start
